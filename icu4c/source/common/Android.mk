@@ -78,6 +78,7 @@ src_files := \
 	ulistformatter.cpp \
 	uloc.cpp \
 	uloc_keytype.cpp \
+	icu53.c \
 	uloc_tag.c \
 	umapfile.c \
 	umath.c \
